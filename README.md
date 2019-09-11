@@ -1,6 +1,6 @@
 Custom Snippets
 ==
-WordPress site-specific plugin base
+Site-specific plugin base for WordPress site
 
 Usage:
 
